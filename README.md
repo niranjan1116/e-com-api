@@ -1,0 +1,1 @@
+used this api - https://fakestoreapi.com/products
